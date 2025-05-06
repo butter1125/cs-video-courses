@@ -875,7 +875,7 @@ Table of Contents
 - [UW AMATH 584 Applied Linear Algebra & Introductory Numerical Analysis fall 2005, by Loyce Adams](https://www.youtube.com/playlist?list=PL682UO4IMem-NKDk9uLzRaTOnHPpr4knp)
 - [Stanford CME 206 Introduction to Numerical Methods for Engineering spring 2005, by Charbel Farhat](https://www.youtube.com/playlist?list=PL682UO4IMem97Nk-jJCqUiYZmwpCxMuYF)
 - [Stanford CME 200 Linear Algebra with Application to Engineering Computations autumn 2004, by Margot Gerritsen](https://www.youtube.com/playlist?list=PL682UO4IMem-ZiiCDz7C6bVRjxJ5P35zk)
-- [Stanford CME 302 Numerical Linear Algebra autumn 2007, by Gene Golub](https://www.youtube.com/playlist?list=PL682UO4IMem-OlrG8LXfWQJ2kV_4mpAau)
+- [Stanford CME 302 Numerical Linear Algebra autumn 2007, by Gene Golub](https://www.stat.uchicago.edu/~lekheng/courses/302/) ([YouTube](https://www.youtube.com/playlist?list=PL682UO4IMem-OlrG8LXfWQJ2kV_4mpAau))
 - [TUe Numerical Linear Algebra 2021, by Martijn Anthonissen](https://www.youtube.com/playlist?list=PLRb3xghOQGNKbUt8zIRpwrQ-SZ6aIZNvt)
 - [Numerical Linear Algebra fall 2018, by Jaegul Choo](https://www.youtube.com/playlist?list=PLep-kTP3NkcMdmrw07VsKFt87FT584Cpd)
 - [MIT 6.S955 Applied Numerical Algorithms fall 2023, by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNv_Io_NT1b0Nzr9YDqpK3Lb)
