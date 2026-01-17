@@ -839,6 +839,7 @@ Table of Contents
   - [18.650 Statistics for Applications - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/)
   - [STAT240 - Robust Statistics - UC Berkeley](https://www.stat.berkeley.edu/~jsteinhardt/stat240/index.html)
 - **Linear Algebra**
+  - [CIS 5150 Fundamentals of Linear Algebra and Optimization (Fall 2025) - University of Pennsylvania - Jean Gallier](https://www.cis.upenn.edu/~cis5150/)
   - [Mathematical Foundations of Machine Learning (Fall 2021) - University of Chicago - Rebecca Willett](https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/)
   - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
   - [18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning - MIT OCW](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video_galleries/video-lectures/)
